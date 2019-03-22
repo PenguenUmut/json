@@ -24,6 +24,10 @@
     { "id": 6, "name": "dart", "active": true },
     { "id": 7, "name": "flutter", "active": false },
     { "id": 8, "name": "stateful", "active": false },
-    { "id": 9, "name": "widget", "active": true }
+    { "id": 9, "name": "widget", "active": true },
+    { "id": 10, "name": "json", "active": true },
+    { "id": 11, "name": "data", "active": false },
+    { "id": 12, "name": "typicode", "active": false },
+    { "id": 13, "name": "server", "active": true }
   ]
 }
