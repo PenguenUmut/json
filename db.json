@@ -23,8 +23,7 @@
     { "id": 5, "name": "programming", "active": true },
     { "id": 6, "name": "dart", "active": true },
     { "id": 7, "name": "flutter", "active": false },
-    { "id": 8, "name": "http", "active": true },
-    { "id": 9, "name": "stateful", "active": false },
-    { "id": 10, "name": "widget", "active": true }
+    { "id": 8, "name": "stateful", "active": false },
+    { "id": 9, "name": "widget", "active": true }
   ]
 }
